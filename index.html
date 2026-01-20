@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ElectroChem Plotter</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'brand-primary': '#0891b2', // cyan-600
+              'brand-secondary': '#0e7490', // cyan-700
+              'base-100': '#f0f9ff', // sky-50
+              'base-200': '#e0f2fe', // sky-100
+              'base-300': '#bae6fd', // sky-200
+              'base-content': '#0c4a6e', // sky-900
+              'surface-0': '#ffffff',
+              'surface-1': '#f8fafc', // slate-50
+              'surface-2': '#f1f5f9', // slate-100
+              'text-primary': '#1e293b', // slate-800
+              'text-secondary': '#475569', // slate-600
+            },
+          },
+        },
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.1.0/",
+    "react": "https://esm.sh/react@^19.1.0",
+    "react-dom/client": "https://esm.sh/react-dom@^19.1.0/client",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/",
+    "recharts": "https://esm.sh/recharts@^3.0.2",
+    "html2canvas": "https://esm.sh/html2canvas@^1.4.1",
+    "recharts/": "https://esm.sh/recharts@^3.0.2/"
+  }
+}
+</script>
+</head>
+  <body class="bg-base-100">
+    <div id="root"></div>
+  </body>
+</html>

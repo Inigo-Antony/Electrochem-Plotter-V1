@@ -1,0 +1,6 @@
+{
+  "name": "ElectroChem Plotter",
+  "description": "Professional Cyclic Voltammetry (CV) visualization suite. Features interactive multi-tab plotting, advanced styling, real-time smoothing, and high-resolution PNG export for researchers and students.",
+  "requestFramePermissions": [],
+  "prompt": "An advanced electrochemical data plotter for Cyclic Voltammetry. Support multi-tab management, overlaying datasets, interactive zooming, data smoothing, and professional PNG export with customizable axis styles."
+}
