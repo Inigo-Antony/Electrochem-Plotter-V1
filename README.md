@@ -54,6 +54,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 If you encounter any issues or have suggestions for new features, please use the "Provide Feedback" tool within the app or reach out via GitHub Issues.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+Inigo Antony
+
 ---
 
 *Developed for the Electrochemistry community.*
