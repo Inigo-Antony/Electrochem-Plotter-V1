@@ -1,6 +1,7 @@
 # ElectroChem Plotter 🧪📈
 
 A professional-grade, browser-based visualization tool for Electrochemical data. Specifically designed for **Cyclic Voltammetry (CV)**, this application allows researchers to upload raw data, overlay multiple scans, customize plot aesthetics, and export publication-ready figures.
+<img width="1192" height="787" alt="image" src="https://github.com/user-attachments/assets/ebd5c268-7fc1-4847-b426-5e528e460488" />
 
 ## ✨ Key Features
 
